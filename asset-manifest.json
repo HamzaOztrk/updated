@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/updated/static/css/main.101370ef.css",
+    "main.js": "/updated/static/js/main.1ee912f1.js",
+    "static/media/Ekran görüntüsü 2023-07-17 132245.png": "/updated/static/media/Ekran görüntüsü 2023-07-17 132245.fc0c33bc28af5674b55a.png",
+    "index.html": "/updated/index.html",
+    "main.101370ef.css.map": "/updated/static/css/main.101370ef.css.map",
+    "main.1ee912f1.js.map": "/updated/static/js/main.1ee912f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101370ef.css",
+    "static/js/main.1ee912f1.js"
+  ]
+}
