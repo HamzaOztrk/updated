@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(234, 29%, 20%);
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.card-container{
+    text-align: center;
+    width: 50vh;
+    height: 50vh;
+    background-color: white;  
+    border-radius:10px ;
+    border: 2px solid red;
+  }
+
+  .card{
+    
+    padding: 10vh;
+  }
+
+.h1{
+    letter-spacing: 1.3;
+}
+
+.span{
+    font-size: large;
+    color: blue;
+}
+  
